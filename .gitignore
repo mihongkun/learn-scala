@@ -19,3 +19,16 @@ project/plugins/project/
 # ENSIME specific
 .ensime_cache/
 .ensime
+.idea/atlassian-ide-plugin.xml
+.idea/libraries/R_User_Library.xml
+.idea/libraries/SBT__org_scala_lang_scala_library_2_12_2_jar.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/learn-scala-build.iml
+.idea/sbt.xml
+.idea/vcs.xml
+.idea/modules/learn-scala.iml
+.idea/scala_compiler.xml
+.idea/thriftCompiler.xml
+.idea/workspace.xml
+
