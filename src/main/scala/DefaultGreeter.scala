@@ -13,10 +13,6 @@ class CustomizableGreeter(prefix: String, suffix: String) extends Greeter {
   }
 }
 
-
-
-
-
 object Main {
 
   def main(args: Array[String]): Unit = {
